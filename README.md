@@ -38,4 +38,4 @@ This repository contains a Python script (`database_query.py`) that connects to 
 - Indentation errors were fixed, and the script was saved as `database_query.py` in `C:\Users\jason\Documents`.
 - Git was installed, and the project was uploaded to GitHub with a README added manually.
 
-## Sample Output
+
