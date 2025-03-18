@@ -1,12 +1,12 @@
 # Household Budget Project
 
 This repository contains a Python script (`database_query.py`) that connects to a PostgreSQL database named "Household Budget" and queries the `expenses` and `income` tables to display the data using pandas DataFrames. 
-## Features
+# Features
 - Connects to a local PostgreSQL database hosted on `localhost:5432`.
 - Retrieves and displays expenses and income data in tabular format.
 - Uses `psycopg2` for PostgreSQL connectivity and `pandas` for data manipulation.
 
-## Prerequisites
+# Prerequisites
 - **Python 3.x** (the version used during development, confirm with `python --version`).
 - Installed libraries:
   - `psycopg2-binary` (install with `pip install psycopg2-binary`)
@@ -19,7 +19,7 @@ This repository contains a Python script (`database_query.py`) that connects to 
   - Port: `5432`
 - Git installed (version 2.49.0.windows.1 used, install from [git-scm.com](https://git-scm.com)).
 
-## Project Setup
+ Project Setup
 1. **Clone the Repository**:
    - `git clone https://github.com/naearts123/household-budget-project.git`
    - `cd household-budget-project`
