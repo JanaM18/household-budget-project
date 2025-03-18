@@ -33,7 +33,6 @@ This repository contains a Python script (`database_query.py`) that connects to 
    - Expected output will display "Expenses Table" and "Income Table" with data.
 
 ## How It Was Built
-- The script was written and debugged with help from Grok 3 (xAI).
 - Initial issues included `ModuleNotFoundError` for `psycopg2` and `pandas`, resolved by installing the libraries.
 - Indentation errors were fixed, and the script was saved as `database_query.py` in `C:\Users\jason\Documents`.
 - Git was installed, and the project was uploaded to GitHub with a README added manually.
