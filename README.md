@@ -1,7 +1,6 @@
 # Household Budget Project
 
-This repository contains a Python script (`database_query.py`) that connects to a PostgreSQL database named "Household Budget" and queries the `expenses` and `income` tables to display the data using pandas DataFrames. The project was developed with assistance from Grok 3 (xAI) to troubleshoot and set up the database connection and GitHub integration.
-
+This repository contains a Python script (`database_query.py`) that connects to a PostgreSQL database named "Household Budget" and queries the `expenses` and `income` tables to display the data using pandas DataFrames. 
 ## Features
 - Connects to a local PostgreSQL database hosted on `localhost:5432`.
 - Retrieves and displays expenses and income data in tabular format.
